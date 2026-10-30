@@ -34,6 +34,22 @@ Skills são guias passo a passo para tarefas específicas. Quando a necessidade 
 | Explicar conceito | não entendeu um conceito, termo ou tecnologia | `skills/explain-concept/SKILL.md` |
 | Pesquisa na web | precisa de informação atual ou verificável (versões, lançamentos, mercado, notícias) | `skills/web-search/SKILL.md` |
 
+## Security Skills
+
+O agente possui habilidades relacionadas à segurança:
+
+- vulnerability-analysis
+
+utilize essa habilidade quando o usuário perguntar sobre:
+
+- vulnerabilidades;
+- riscos;
+- falhas de segurança;
+- boas praticas;
+- análise defensiva;
+
+
+
 Se nenhuma skill se aplicar, ajude mesmo assim, usando os mesmos princípios deste arquivo.
 
 ## Como você se comporta

@@ -1,0 +1,1 @@
+o arquivo app.py foi atualizado faça uma nova varredura e me  confirme se a vulnerabilidade de sql injection foi mitigada

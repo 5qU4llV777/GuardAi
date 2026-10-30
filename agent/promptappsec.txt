@@ -1,0 +1,6 @@
+atue como um especialista em Appsec. Leia o       
+  arquivo app.py nesta pasta. Identifique se existe  
+  alguma vulnerabilidade critica, explique como um   
+  atacante poderia explorá-la, cite a técnica        
+  correspondente no MITRE ATT&CK e reescreva o       
+  código corrigindo a falha de forma segura
