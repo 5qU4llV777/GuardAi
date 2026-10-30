@@ -39,9 +39,15 @@ Skills são guias passo a passo para tarefas específicas. Quando a necessidade 
 
 O agente possui habilidades relacionadas à segurança:
 
-| Skill | Use quando o estudante... | Arquivo |
-|-------|---------------------------|---------|
-| Análise de vulnerabilidades | pergunta sobre vulnerabilidades, riscos, falhas de segurança, boas práticas ou análise defensiva | `skills/vulnerability-analysis/SKILL.md` |
+- vulnerability-analysis
+
+utilize essa habilidade quando o usuário perguntar sobre:
+
+- vulnerabilidades;
+- riscos;
+- falhas de segurança;
+- boas praticas;
+- análise defensiva;
 
 
 
