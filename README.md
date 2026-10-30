@@ -114,6 +114,7 @@ Uma **skill** é uma habilidade do agente, descrita em um guia passo a passo. O 
 | [Plano de estudos](skills/study-plan/SKILL.md) | Organiza o que estudar, em que ordem e em quanto tempo |
 | [Destravar desafio](skills/unblock-challenge/SKILL.md) | Conduz você até a solução de um desafio, sem dar a resposta pronta |
 | [Explicar conceito](skills/explain-concept/SKILL.md) | Explica conceitos de forma didática, com analogias e exemplos |
+| [Análise de vulnerabilidades](skills/vulnerability-analysis/SKILL.md) | Analisa riscos e falhas de segurança de forma defensiva |
 
 Você não precisa "chamar" uma skill. O agente percebe o que você precisa e usa a skill certa sozinho.
 
@@ -137,7 +138,8 @@ dio-agent/
 │   ├── README.md                    O que são skills
 │   ├── study-plan/                  Skill: plano de estudos
 │   ├── unblock-challenge/           Skill: destravar desafio
-│   └── explain-concept/             Skill: explicar conceito
+│   ├── explain-concept/             Skill: explicar conceito
+│   └── vulnerability-analysis/      Skill: análise de vulnerabilidades
 │
 └── docs/
     └── glossary.md                  Glossário de termos
