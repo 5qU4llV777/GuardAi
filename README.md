@@ -1,3 +1,5 @@
+[Video do agente de segurança](https://youtu.be/SEqHGRSK4as?si=7AGscCj-pH8h2kCf)
+
 # 🤖 DIO Agent
 
 > Seu mentor de Inteligência Artificial para aprender mais e melhor na [DIO](https://dio.me).
